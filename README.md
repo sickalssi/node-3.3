@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# Cloud Native Application
 
 ## Dependencies
 
@@ -10,10 +10,11 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- The necessary configuration and environment needed for a cloud native app.
+- What are the common architectural dependencies in production
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Run simple cloud native application
 
 
 ## Lesson Plan
