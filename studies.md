@@ -6,11 +6,16 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 
 ### Video 
 
-- add links
+- https://www.youtube.com/watch?v=fp9_ubiKqFU
+- https://www.youtube.com/watch?v=osz-MT3AxqA
 
 ### Readings
 
-- add links
+- https://www.ibm.com/cloud/learn/cloud-native
+- https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/introduction
+- https://www.ridge.co/blog/cloud-native-applications-explained/
+- https://tanzu.vmware.com/cloud-native
+- https://www.redhat.com/en/topics/cloud-native-apps#how-to-build
 
 ### Helpful Links (References)
 
