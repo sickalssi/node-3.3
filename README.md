@@ -27,12 +27,13 @@ Learners will be able to:
 |20 mins|Code Along| Practical hands on|
 ||**1 HR MARK**|
 |5 mins|Break|Break|
-|40 mins|Code Along| Practical hands on|
+|30 mins|Code Along| Learners install NPM, Node JS, NVM, AWS CLI|
+|10 mins|Code Along| Learners try create example code with node.js|
 |5 mins|Buffer|In case of overrun|
-|5 mins|Break||
-|5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
+|10 mins|Break||
 ||**2 HR MARK**|
-|50 mins|Learners activity| Learners install NPM, Node JS, NVM, AWS CLI and Docker on their local machine|
+|40 mins|Learners activity| Learners install Docker on their local machine|
+|10 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
 |10 mins|Recap|
 ||**END CLASS 3 HR MARK**|
 
