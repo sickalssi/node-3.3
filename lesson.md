@@ -96,12 +96,73 @@ A good example of an API-enabled application is Google Maps. With Google Maps, a
 
 ---
 
-## Part 2 - Common Required Cloud Native Apps
+## Part 2 - Common Cloud Native Apps Knowledge
 
-Insert Instructions
+### API
+
+![image](https://user-images.githubusercontent.com/106639884/207229762-73cd8f2b-a10b-4266-9be5-a28d3af10efb.png)
+
+
+### Logging
+
+A microservices-based application might have several services running and communicating amongst themselves. Things get complicated when one or more services fail, and you need to know which one failed and why. It’s also essential that you’re able to comprehend the whole request flow — which services were invoked, how many times, and in what order.
+
+To answer these questions, you should have meaningful logs available and a unique Id to correlate requests. You should have a proper way to track errors that might span several microservices. Moreover, the complexities of monitoring and logging grow exponentially when the business logic of your applications spans across several microservices.
+
+| There will be a chapter specifically to cover about logging.
+
+### Caching
+
+**Lets spend 5-10 mins to read an article about caching here: https://www.linkedin.com/pulse/caching-microservice-highly-effective-way-maximize-performance-rao**
+
+
+One of the example of in-memory data structure store / caching is Redis.
+
+**Redis**
+
+Redis is an open source, in-memory, key-value data store most commonly used as a primary database, cache, message broker, and queue. Redis delivers sub-millisecond response times, enabling fast and powerful real-time applications in industries such as gaming, fintech, ad-tech, social media, healthcare, and IoT.
+
+Redis is the most-loved database by developers for five years running. Developers love Redis because of its ease of use, performance, and scalability. There is a Redis client available for use in every popular modern programming language. This, coupled with the performance benefits, makes Redis the most popular choice for caching, session management, gaming, fraud detection, leaderboards, real-time analytics, geospatial indexing, ride-sharing, social media, and streaming applications.
+
+**Learner install redis locally**
 
 ---
 
 ## Part 3 - Installation - Node, NPM, NVM, Docker
 
-Insert Instructions
+Install these on your local machine:
+- https://nodejs.org/en/download/
+- https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+- https://github.com/nvm-sh/nvm
+
+
+### Your first node application
+
+```npm init```
+
+Instructor explain about the project structure including `package.json` and `node_modules`.
+
+Add this to your project `index.js`
+
+```
+const http = require(‘http’);
+const hostname = ‘localhost’;
+const port = 3000;
+const server = http.createServer((req, res) => {
+ console.log(req.headers);
+ res.statusCode = 200;
+ res.end(‘<html><body><h1>Hello, World!</h1></body></html>’);
+})
+server.listen(port, hostname);
+```
+
+Run the project:
+
+```node index.js```
+
+## Part 4 - Installation - Docker
+
+Install these on your local machine:
+- https://docs.docker.com/get-docker/
+
+**Learners need to complete the NPM, Node and Docker locally, so that on the next module, there is no issue because we will focus to code and no more installation process**
