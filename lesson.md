@@ -16,7 +16,7 @@ Write about how instructors can brief the students at the start of the lesson. I
 The cloud-native application is the concept of creating apps that take advantage of distributed computing to exploit the resiliency, scale, flexibility, and elasticity the cloud delivery models offer. These applications are run and hosted in the cloud. It benefits businesses with independent services, portable containers, and is packaged as self-contained. It is designed mainly for the cloud.
 
 
-**Key principles of cloud-native architecture**
+### Key principles of cloud-native architecture
 Have a look at some of the key principles of cloud-native architecture.
 
 **Microservices**
@@ -48,7 +48,7 @@ The cloud-native approach is DevOps‘ best practice to automate the process bet
 The collaboration of DevOps with the CI/CD paradigm has benefitted developers in iterating software to improve deployment time and reduce errors. From an enterprise perspective, a cloud-native approach with DevOps for software development helps maximize agility via continuous deployment and allows apps to scale up without needing further changes.
 
 
-**3 Benefits of cloud-native applications**
+### 3 Benefits of cloud-native applications
 
 What makes cloud-native development so valuable? The following three qualities are what have savvy companies paying attention:
 
