@@ -22,3 +22,5 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 
 - https://aws.amazon.com/caching/#:~:text=The%20service%20improves%20the%20performance,whitepaper%20on%20in%2Dmemory%20caching.
 - https://www.linkedin.com/pulse/caching-microservice-highly-effective-way-maximize-performance-rao
+- https://nodejs.org/en/download/
+- https://docs.docker.com/get-docker/
