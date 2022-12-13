@@ -10,18 +10,18 @@ Write about how instructors can brief the students at the start of the lesson. I
 
 ---
 
-## Part 1 - Insert Summary
+## Part 1 - Cloud Native Apps Concepts
 
 Insert Instructions
 
 ---
 
-## Part 2 - Insert Summary
+## Part 2 - Common Required Cloud Native Apps
 
 Insert Instructions
 
 ---
 
-## Part 3 - Insert Summary
+## Part 3 - Installation - Node, NPM, NVM, Docker
 
 Insert Instructions
