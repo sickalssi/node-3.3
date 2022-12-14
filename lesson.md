@@ -2,11 +2,26 @@
 
 ### Preparation
 
-Write about any preparations needed for the lesson, such as tools, installations, prior-knowledge, etcs.
+- Personal computer to install Node and Docker
+
+
+### Self study check in
+
+Q1: What is Cloud Native Application based on your knowledge?
+
+Q2: It is easier to secure one monolithic application hosted on a single powerful server than compared to a distributed, cloud-native environment. True or False?
+
+Q3: Do you think that when we implement Containerization on our system, it make it complicated?
+
 
 ### Lesson Overview
 
-Write about how instructors can brief the students at the start of the lesson. It is good to guide students through what is going to be covered and the outcome. Setting expectations.
+Cloud native is an approach to building and running applications that exploits the advantages of the cloud computing delivery model. When companies build and operate applications using a cloud native architecture, they bring new ideas to market faster and respond sooner to customer demands.
+
+While public cloud has affected the thinking about infrastructure investment in virtually every industry, cloud-like delivery isn’t exclusive to public environments. Cloud native development is appropriate for both public and private clouds; it’s about how applications are created and deployed, not where.
+
+More important is the ability to offer on-demand access to computing power along with modern data and application services for developers. Cloud native development incorporates the concepts of DevOps, continuous delivery, microservices, and containers.
+
 
 ---
 
