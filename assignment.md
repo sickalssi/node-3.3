@@ -2,7 +2,8 @@
 
 ### Brief
 
-Enter instruction for assignment here.
+Create your new repository with the first node application on it.
+Implement all have you learnt on Git module (git init, git commit, git add, etc) and push all the code to your new repository.
 
 ### Submission 
 
@@ -10,19 +11,4 @@ Enter instruction for assignment here.
 - Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL. 
 
 ### References
-
-_Example of Referencing Classmate_
-
-Referenced the code block below from Terence.
-```js
-    function printMe(){
-        console.log("I am a reference example");
-    }
-```
-
-_Example of Referencing Online Resources_
-
-- https://developer.mozilla.org/en-US/
-- https://www.w3schools.com/html/
-- https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
 
